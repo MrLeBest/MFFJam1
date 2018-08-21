@@ -1,4 +1,4 @@
-package fr.yanaym.mffjam.common;
+package fr.yanaym.parrotcommunication.common;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
